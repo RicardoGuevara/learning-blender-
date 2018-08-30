@@ -1,0 +1,21 @@
+/módulos
+* Resistencia térmica|2|uni|
+* Tubería galbanizada|2|mts|
+* Mangerillas|10|mts|
+* Recipiente metálico cilíndrico (min 2 lt)|1|uni|
+* Recipientes plásticos o acrilicos (min 2 lt)|2|uni|
+* Cápsulas plásticas|2|uni|
+* Válvula dosificación|2|uni|
+* Válvula gases|4|uni|
+* Motor AC|2|uni|
+* Bases material no definido|3|mt2|
+* mallas de tamizado|5|uni|
+/fuente reguladora
+* Baquela|2|uni|
+* Ácido para baquela|1|uni|
+* Diodos (puentes rectificadores)|8|uni|
+* Regulador lm (caida de tensión)|2|uni|
+* Condensadores|4|uni|
+/material
+* Soda Caustica|1|uni|
+* Sal|2|lbs|
